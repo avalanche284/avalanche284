@@ -1,4 +1,4 @@
- <h1 align="center">Hey 👋, I'm Simon</h1>
+<h1 align="center">Hey 👋, I'm Simon</h1>
 <h3 align="center">I'm a Computer Science student and Service Desk Expert!</h3>
 
 - 🌱 I’m currently studying Computer Science at WSB University in Gdansk, Poland (MSc Diploma expected in 2023)
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 - 👋 Hi, I’m @avalanche284
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+
 avalanche284/avalanche284 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
