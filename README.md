@@ -1,14 +1,17 @@
-<h1 align="center">Hey 👋, I'm Simon</h1>
+<h1 align="center">Hey 👋, I'm Szymon</h1>
 <h3 align="center">I'm a Computer Science student and Service Desk Expert!</h3>
 
-- 🌱 I’m currently studying Computer Science at WSB University in Gdansk, Poland (MSc Diploma expected in 2023)
+- 🌱 I currently study Computer Science at WSB University in Gdansk, Poland (MSc Diploma expected in 2023)
 
-- 👨‍💻 I currently work as a Service Desk Expert End User Computing 2nd Line at Fujitsu, Poland.
+- 👨‍💻 Work as a Service Desk Expert End User Computing 2nd Line at Fujitsu, Poland.
 
+- 📫 You can checkout my online resume at https://avalanche284.github.io/simon-ba/
+
+- 😄 Pronouns: It's Simon
+
+- 💬 You can reach me on: simon-ba@outlook.com
 
 <!--
-- 📫 You can checkout my online resume at [jameswgrant.co.uk](https://www.jameswgrant.co.uk/)
-
 
 
 - 🔭 I would love for you to checkout my projects, [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) and [itsgoingto.be](https://github.com/sproogen/itsgoingto.be)
