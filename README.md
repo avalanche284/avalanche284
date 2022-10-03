@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Szymon</h1>
-<h3 align="center">I'm a Computer Science student and Service Desk Expert!</h3>
+<h3 align="center">I'm a Computer Science student!</h3>
 
 - 🇮🇹 I'm Erasmus exchange student at Univerity of Pavia, Italy!
 
