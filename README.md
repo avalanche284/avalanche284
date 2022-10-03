@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Szymon</h1>
 <h3 align="center">I'm a Computer Science student and Service Desk Expert!</h3>
 
-- 🌱 I currently study Computer Science at WSB University in Gdansk, Poland (MSc Diploma expected in 2023)
+- 🇮🇹 I'm Erasmus exchange student at Univerity of Pavia, Italy!
 
-- 👨‍💻 Work as a Service Desk Expert End User Computing 2nd Line at Fujitsu, Poland.
+- 🌱 I currently study Computer Science at WSB University in Gdansk, Poland (MSc Diploma expected in 2023)
 
 - 📫 You can checkout my online resume at https://avalanche284.github.io/simon-ba/
 
