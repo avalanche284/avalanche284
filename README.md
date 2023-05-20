@@ -3,13 +3,13 @@
 
 - 🇮🇹 I'm Erasmus exchange student at Univerity of Pavia, Italy!
 
-- 🌱 I currently study Computer Science at WSB University in Gdansk, Poland (MSc Diploma expected in 2023)
+- 🌱 I study Computer Science at WSB Merito University in Gdansk, Poland (MSc Diploma expected in 2023)
 
 - 📫 You can checkout my online resume at https://avalanche284.github.io/simon-ba/
 
-- 😄 Pronouns: It's Simon
+- 😄 Pronouns: Simon
 
-- 💬 You can reach me on: simon-ba@outlook.com
+- 💬 You can reach me on: szymon.bartoszewicz@hotmail.com
 
 <!--
 
