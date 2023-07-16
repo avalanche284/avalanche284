@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Szymon</h1>
-<h3 align="center">I'm a Computer Science student!</h3>
+
 
 🌱 I’m a 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 student with a 𝟭𝟯+ 𝗺𝗼𝗻𝘁𝗵𝘀 𝗳𝘂𝗹𝗹-𝘁𝗶𝗺𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 of troubleshooting at a Service Desk. At Fujitsu, 𝗜 𝗵𝗲𝗹𝗽𝗲𝗱 𝗲𝗻𝗵𝗮𝗻𝗰𝗲 𝗮 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 for creating new accounts by 𝟯𝟳%.
 
@@ -16,6 +16,7 @@
 📫 You can reach me at 𝘀𝘇𝘆𝗺𝗼𝗻.𝗯𝗮𝗿𝘁𝗼𝘀𝘇𝗲𝘄𝗶𝗰𝘇@𝗵𝗼𝘁𝗺𝗮𝗶𝗹.𝗰𝗼𝗺
 
 <!--
+<h3 align="center">I'm a Computer Science student!</h3>
 - 🇮🇹 I'm Erasmus exchange student at Univerity of Pavia, Italy!
 
 - 🌱 I study Computer Science at WSB Merito University in Gdansk, Poland (MSc Diploma expected in 2023)
