@@ -1,15 +1,16 @@
 <h1 align="center">Hey 👋, I'm Szymon</h1>
 
 
-🌱 I’m a 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 student with a 𝟭𝟯+ 𝗺𝗼𝗻𝘁𝗵𝘀 𝗳𝘂𝗹𝗹-𝘁𝗶𝗺𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 of troubleshooting at a Service Desk. At Fujitsu, 𝗜 𝗵𝗲𝗹𝗽𝗲𝗱 𝗲𝗻𝗵𝗮𝗻𝗰𝗲 𝗮 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 for creating new accounts by 𝟯𝟳%.
+🌱 I’m a Junior Project Coordinator @Atos with a 𝟭𝟯+ 𝗺𝗼𝗻𝘁𝗵𝘀 𝗳𝘂𝗹𝗹-𝘁𝗶𝗺𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 of troubleshooting at a Service Desk. At Fujitsu, 𝗜 𝗵𝗲𝗹𝗽𝗲𝗱 𝗲𝗻𝗵𝗮𝗻𝗰𝗲 𝗮 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 for creating new accounts by 𝟯𝟳%.
 
-💼Examples of my project work include:
+💼Examples of my Filmmaking, promotion and event organizaiton work include:
 * Organizing & taking part in Oxford Style Debate at Gdynia Maritime University
-* Script, photos, and film editing 2 high school’s movies
+* Script, photos, and film editing high school’s movies
+* Organizing Sport Shooting Competitions at Middle and High School 
 
 🟣 My 5 CliftonStrenghts® are: 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗿, 𝗗𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗲, 𝗛𝗮𝗿𝗺𝗼𝗻𝘆, Significance, Focus
 
-🚀Interests: Sports (AthleanX), Reading (Think and Grow Rich! by Napoleon Hill), Podcasts (Huberman Lab Podcast), Success (Dan Peña).
+🚀Interests: Public Speaking (Toastmasters), Sports (AthleanX), Reading (Think and Grow Rich! by Napoleon Hill), Podcasts (Huberman Lab Podcast), Success (Dan Peña).
 
 🖇️I get excited about opportunities where a responsibility is given to me, where I am in control, where a not easy task is assigned to me.
 
